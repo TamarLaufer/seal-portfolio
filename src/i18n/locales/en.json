@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "title": "SEAL Studio",
+    "subtitle": "Design & Development",
+    "caption": "Design and development of websites and mobile apps, with a focus on great user experience and modern technologies",
+    "button": "View My Work"
+  },
+  "portfolio": {
+    "title": "My Work",
+    "subtitle": "I build high-quality websites and mobile applications focused on clean design, smooth user experience, and modern technologies. Here are selected projects I developed — from idea and UI/UX to a fully deployed product.",
+    "point1": "Modern business websites — fast, responsive, and conversion-optimized.",
+    "point2": "React Native mobile apps — smooth UX for both iOS and Android.",
+    "point3": "Custom admin dashboards — intuitive management tools built with React.",
+    "point4": "AI-powered solutions — smart interfaces and automated workflows."
+  },
+  "navBar": {
+    "about": "About",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About",
+    "headline": "Hi, I'm Tamar Laufer",
+    "paragraph1": "I'm a freelance developer specializing in creating and designing modern websites and digital products.\nI love taking an idea and turning it into a clear, smooth, and beautifully crafted experience.",
+    "paragraph2": "Over the years, I've worked on a variety of practical projects.\nI designed interfaces, solved real challenges, and focused on building simple and enjoyable experiences.",
+    "paragraph3": "As a freelancer, I'm flexible, dedicated, and attentive.\nI believe in clear communication, thoughtful work, and creating a final product that feels polished and truly fits your needs."
+  }
+}
